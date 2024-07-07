@@ -14,20 +14,19 @@
 }
 
 .todo_app{
-    width: 100%;
-    max-width: 540px;
+    width: 540px;
     background: #fff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
-    position: relative;
+    align-items: center;
+    padding-bottom: 20px;
     
 }
 .todo_app h5{
-    position: absolute;
     bottom: 10px;
-    padding-left: 20px;
     text-align: center;
+    margin-top: 40px;
     background: linear-gradient(135deg,#0F969c,#0c7075,#072E33,#db7340,#0F969c,#0c7075,#072E33,#db7340);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -158,19 +157,18 @@ ul li span:hover{
 
      .todo_app{
         width: 100%;
-        max-width: 1000px;
         background: #fff;
         margin: 100px auto 20px;
         padding: 40px 30px 70px;
         border-radius: 10px;
     }
 
-    .todo_app h5{
-        position: absolute;
-        bottom: 10px;
-        padding-left: 0px;
-        padding-right: 10px;
-        text-align: center;
-        
-    }
+    /* .todo_app h5{ */
+        /* position: absolute; */
+        /* bottom: 10px; */
+        /* padding-left: 0px; */
+        /* padding-right: 10px; */
+        /* text-align: center; */
+/*          */
+    /* } */
 }

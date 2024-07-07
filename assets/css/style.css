@@ -152,8 +152,8 @@ ul li span:hover{
         align-items: center;
         justify-content: space-between;
         background: #edeef0;
-        border-radius: 30px;
-        padding-left:5px;
+        border-radius: 20px;
+        padding-left:0px;
         margin-bottom: 25px; 
      }
 
@@ -174,7 +174,7 @@ ul li span:hover{
         color: #fff;
         font-size: 16px;
         cursor: pointer;
-        border-radius: 40px;
+        border-radius: 20px;
         width: 100%;
     }
 

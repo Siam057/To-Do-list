@@ -155,6 +155,7 @@ ul li span:hover{
         border-radius: 20px;
         padding-left:0px;
         margin-bottom: 25px; 
+        overflow: hidden;
      }
 
      .todo_app{
